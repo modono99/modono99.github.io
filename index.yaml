@@ -1,0 +1,21 @@
+apiVersion: v1
+entries:
+  pages:
+  - apiVersion: v2
+    appVersion: "1.0"
+    created: "2022-01-14T11:16:19.110646449Z"
+    dependencies:
+    - name: pages-api
+      repository: https://modono99.github.io
+      version: 1.x.x
+    - name: mysql
+      repository: https://modono99.github.io
+      version: 1.x.x
+    description: A Helm chart for Pages Application
+    digest: 03bdebb904d121e92f41ed67b5d20957bd6aec6c21f867d151c50d000310053d
+    name: pages
+    type: application
+    urls:
+    - pages-1.0.0.tgz
+    version: 1.0.0
+generated: "2022-01-14T11:16:19.109337127Z"
